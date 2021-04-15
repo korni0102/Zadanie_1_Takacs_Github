@@ -1,1 +1,3 @@
-Vyuívanie prototypovania v Srum metodike
+Vyuívanie prototypovania v Srum metodike.
+
+Anotácia.
